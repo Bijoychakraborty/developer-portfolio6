@@ -1,0 +1,31 @@
+.container{
+    font-weight: 400;
+    font-size: 45px;
+
+text-align: right;
+ background-image: url(../images/banner/banner1.png);
+ background-repeat: no-repeat;
+ background-clip: var(35px);
+ padding: 18px 35px;
+
+    
+    
+    
+    
+}
+.lorem{
+    font-size: small;
+    font-weight: 50px;
+    text-align: right;
+}
+.btn-primary{
+    padding: 20px 20px;
+    height: 64;
+    border-radius: 10px;
+    background: orange;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
